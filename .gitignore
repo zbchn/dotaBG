@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.tar.gz
+
+__pycache__/
+build/
+dist/
+*.spec
+
+old/
